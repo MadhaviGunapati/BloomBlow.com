@@ -1,0 +1,1 @@
+$(".top-menu").css('min-width', '100%');//Using JavaScript, you can control the UI.
